@@ -34,7 +34,7 @@
 
 5. Desligue o fogo e junte com o creme de leite.
 
-   #### Montagem
+#### Montagem
 
 1. Coloque primeiro o creme branco.
 2. Em seguida, mergulhe os biscoitos no leite e coloque sobre o creme branco.

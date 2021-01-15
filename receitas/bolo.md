@@ -2,7 +2,7 @@
 
 ### Ingredientes
 
-  ####       Massa
+  ####             Massa
 
 - 1/2 xícara (chá) de óleo.
 
@@ -16,7 +16,7 @@
 
 - 1 colher (sopa) de fermento em pó.
 
-  #### Cobertura
+#### Cobertura
 
 - 1 colher (sopa) de manteiga.
 
@@ -40,7 +40,7 @@
 
 5. Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.
 
-   #### Cobertura
+#### Cobertura
 
 1. Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.
 
